@@ -1,0 +1,11 @@
+schema = 1
+id = "toons"
+name = "Toons"
+version = "0.1.0"
+description = "Cartoons of what the agent is doing, drawn natively while commands run."
+host = "host.luau"
+window = "window.luau"
+
+[[blocks]]
+id = "cartoon"
+title = "Cartoon"
